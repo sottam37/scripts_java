@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Minha aplicação</title>
+</head>
+<body>
+  <h1>Minha aplicação Java</h1>
+  <button onclick="testar()">Testar conexão com o banco</button>
+  <pre id="resultado"></pre>
+
+  <script>
+    async function testar() {
+      const resp = await fetch('usuarios');
+      const texto = await resp.text();
+      document.getElementById('resultado').textContent =
+        resp.ok ? texto : 'Erro ' + resp.status + '\n' + texto;
+    }
+  </script>
+</body>
+</html>

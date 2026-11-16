@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/pedro/Scripts/scripts_java/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1084061041.index
+3330620353.index
+339527154.index
+1491565397.index
+3214856517.index
+390875676.index
+2095708725.index

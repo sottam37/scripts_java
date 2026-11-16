@@ -1,0 +1,22 @@
+INDEX VERSION 1.134+/home/pedro/Scripts/scripts_java/.metadata/.plugins/org.eclipse.jdt.core
+4160241654.index
+1484793114.index
+3330620353.index
+438435744.index
+3347831920.index
+1445544922.index
+763727388.index
+2187355913.index
+1463166308.index
+2168052314.index
+1865797976.index
+3631953976.index
+2406321715.index
+2845957866.index
+900586112.index
+483099290.index
+3203375979.index
+1624964152.index
+2279383384.index
+1491565397.index
+3530155352.index

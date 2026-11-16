@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+/home/pedro/Scripts/scripts_java/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2857635426.index
+/servidor-java/src/main/java
+/home/pedro/Scripts/scripts_java/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2373725707.index
+/meu-projeto-web/src/main/resources
